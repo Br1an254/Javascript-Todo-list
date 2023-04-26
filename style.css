@@ -4,9 +4,10 @@
     box-sizing: border-box;
 }
 
+
 body {
-    display: grid;
-    align-items: center;
+    /* display: grid; */
+    /* align-items: center; */
     height: 100vh;
 }
 
